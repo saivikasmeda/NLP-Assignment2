@@ -1,0 +1,102 @@
+S -> NP VP
+NP -> NP PP
+NP -> sales
+PP -> IN NP
+PP -> TO NP
+IN -> of
+NP -> DT NN
+DT -> the
+DT -> The
+NN -> company
+VP -> TO VP
+TO -> to
+S -> VB PP
+VP -> VB PP
+VB -> return
+NP -> normalcy
+X1 -> DT JJ
+X2 -> NNS X3
+X3 -> CC NNS
+NP -> X1 X2
+NNS -> products
+NNS -> services
+S -> VBD S
+VP -> VBD S
+VBD -> contributed
+S -> TO VP
+VP -> TO VP
+TO -> to
+S -> VB NP
+VP -> VB NP
+VB -> increase
+NP -> revenue
+JJ -> new
+CC -> and
+NP -> dow
+VP -> VBZ SBAR
+VBZ -> falls
+SBAR -> SBAR X4
+X4 -> CC S
+SBAR -> IN S
+IN -> as
+NP -> NN NN
+NN -> recession
+NN -> indicator
+VP -> VBD ADJP
+VBD -> flashed
+ADJP -> red
+NP -> JJ NNS
+JJ -> economical
+NNS -> worries
+VP -> VB PP
+VB -> continue
+PP -> IN NP
+IN -> through
+NP -> DT NN
+NN -> month
+NN -> figure
+NN -> skater
+VP -> VP X5
+X5 -> CC VP
+X6 -> VBZ NP
+X7 -> PP X8
+X8 -> PP PP
+VP -> X6 X7
+VBZ -> lands
+NP -> JJ X9
+X9 -> JJ NN
+JJ -> historic
+JJ -> quadruple
+NN -> jump
+PP -> IN NP
+IN -> in
+JJ -> senior
+JJ -> international
+NN -> competition
+IN -> at
+NP -> X10 X13
+X10 -> DT CD
+X11 -> NNP NNP
+X12 -> NNP NNPS
+X13 -> X11 X12
+CD -> 2019
+NNP -> world
+NNP -> figure
+NNP -> skating
+NNPS -> championships
+IN -> on
+NP -> NN CD
+NN -> day
+CD -> 3
+CC -> but
+VP -> MD X14
+X14 -> ADVP VP
+MD -> could
+ADVP -> only
+VP -> VB NP
+VB -> clinch
+X15 -> NN NN
+NP -> DT X15
+DT -> a
+NN -> silver
+NN -> medal

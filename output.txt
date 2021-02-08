@@ -1,0 +1,21 @@
+S1: sales of the company to return to normalcy
+
+ Structure Parse Structure for S1: (S (NP((NP sales) PP((IN of) NP((DT the) (NN company)))) VP((TO to) VP((VB return) PP((TO to) (NP normalcy))))))
+Number of parses for S1: 1
+-------------------------------------------
+
+S2: the new products and services contributed to increase revenue
+
+ Structure Parse Structure for S2: (S (NP(X1((DT the) (JJ new)) X2((NNS products) X3((CC and) (NNS services)))) VP((VBD contributed) S((TO to) VP((VB increase) (NP revenue))))))
+Number of parses for S2: 2
+-------------------------------------------
+
+S3: dow falls as recession indicator flashed red and economical worries continue through the month
+
+ Structure Parse Structure for S3: (S ((NP dow) VP((VBZ falls) SBAR(SBAR((IN as) S(NP((NN recession) (NN indicator)) VP((VBD flashed) (ADJP red)))) X4((CC and) S(NP((JJ economical) (NNS worries)) VP((VB continue) PP((IN through) NP((DT the) (NN month))))))))))
+Number of parses for S3: 1
+-------------------------------------------
+
+S4: figure skater lands historic quadruple jump in senior international competition at the 2019 world figure skating championships on day 3 but could only clinch a silver medal
+ Structure Parse Structure for for S4: (S (NP((NN figure) (NN skater)) VP(VP(X6((VBZ lands) NP((JJ historic) X9((JJ quadruple) (NN jump)))) X7(PP((IN in) NP((JJ senior) X9((JJ international) (NN competition)))) X8(PP((IN at) NP(X10((DT the) (CD 2019)) X13(X11((NNP world) (NNP figure)) X12((NNP skating) (NNPS championships))))) PP((IN on) NP((NN day) (CD 3)))))) X5((CC but) VP((MD could) X14((ADVP only) VP((VB clinch) NP((DT a) X15((NN silver) (NN medal))))))))))
+Number of parses for S4: 3

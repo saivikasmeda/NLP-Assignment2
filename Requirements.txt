@@ -1,0 +1,7 @@
+nltk==3.2.5
+numpy==1.18.2
+Benepar
+tensorflow==1.14.0
+sys
+re
+cython
